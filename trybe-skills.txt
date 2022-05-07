@@ -1,7 +1,10 @@
 - Unix
 - Bash
 - Git-Unix
--Bash
--Git
-.Back End
-.Full Stack
+- Bash
+- Git
+- Back End
+- Full Stack
+- HTML
+- CSS2
+
